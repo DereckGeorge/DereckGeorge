@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dereck Tano
 ## Frontend Developer from Tanzania
-
+![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 
 - 🌱 I’m currently learning **Flutter and React**
