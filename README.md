@@ -3,7 +3,7 @@
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **Flask RESTFUL apis and React js**
 - 📫 How to reach me: [eridericgeorge@gmail.com](mailto:eridericgeorge@gmail.com)
 
 ### Connect with me:
