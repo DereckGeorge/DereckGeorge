@@ -3,7 +3,7 @@
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 
-- 🌱 I’m currently learning **Node js, Express js and React js**
+- 🌱 I’m currently learning **Flutter and Laravel**
 - 📫 How to reach me: [eridericgeorge@gmail.com](mailto:eridericgeorge@gmail.com)
 
 ### Connect with me:
