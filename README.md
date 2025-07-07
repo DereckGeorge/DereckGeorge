@@ -9,8 +9,8 @@
 
 <!-- Streak and Stats Cards - side by side -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&&theme=vue-darkshow_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 - I’m currently exploring microservices architecture with Flutter and Laravel, advanced system design, and scalable backend patterns.
