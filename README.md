@@ -3,12 +3,13 @@
 
 <!-- Most Used Languages Card - top, centered -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+   <img src="https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  
 </p>
 
 <!-- Streak and Stats Cards - side by side -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&&theme=vue-darkshow_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
