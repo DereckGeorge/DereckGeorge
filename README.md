@@ -1,10 +1,10 @@
-# Hi, I'm Dereck Tano
-## Fullstack Developer
+## Fullstack Mobile Application and Website Developer
+![GitHub Streak](https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true)
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 
-- 🌱 I’m currently learning **Flutter and Laravel**
-- 📫 How to reach me: [eridericgeorge@gmail.com](mailto:eridericgeorge@gmail.com)
+- I’m currently exploring microservices architecture with Flutter and Laravel, advanced system design, and scalable backend patterns.
+- How to reach me: [eridericgeorge@gmail.com](mailto:eridericgeorge@gmail.com)
 
 ### Connect with me:
 <a href="https://twitter.com/derecktano"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"></a>
