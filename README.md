@@ -1,6 +1,7 @@
 ## Fullstack Mobile Application and Website Developer
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 - I’m currently exploring microservices architecture with Flutter and Laravel, advanced system design, and scalable backend patterns.
