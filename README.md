@@ -1,6 +1,8 @@
 ## Fullstack Mobile Application and Website Developer
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
