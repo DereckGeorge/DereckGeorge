@@ -1,10 +1,17 @@
+# Hi, I'm Dereck Tano
 ## Fullstack Mobile Application and Website Developer
 
+<!-- Most Used Languages Card - top, centered -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dereckgeorge&show_icons=true&locale=en&layout=compact)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=dereckgeorge&theme=vue-dark&hide_border=true)
+
+<!-- General GitHub Stats -->
 ![dereckgeorge's Stats](https://github-readme-stats.vercel.app/api?username=dereckgeorge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 - I’m currently exploring microservices architecture with Flutter and Laravel, advanced system design, and scalable backend patterns.
 - How to reach me: [eridericgeorge@gmail.com](mailto:eridericgeorge@gmail.com)
